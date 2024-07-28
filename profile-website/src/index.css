@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
+:root {
+  --yellow-theme-background-colour: #7091e6;
+  --yellow-theme-main-colour: #3d52a0;
+  --yellow-theme-sub-text-colour: black;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: FoundersGrotesk, Helvetica, Arial, sans-serif;
+  height: 100%;
+  --line-color: #fff;
+}
+
+body {
+  background-color: var(--yellow-theme-background-colour);
+  height: 100%;
+}
+#root {
+  height: 100%;
+}
