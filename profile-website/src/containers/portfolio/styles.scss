@@ -32,12 +32,15 @@
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       grid-auto-rows: auto;
-      grid-gap: 1rem;
+      grid-gap: 2rem;
       margin-top: 10px;
+
       &__item {
         height: 366px;
         cursor: pointer;
         position: relative;
+        border: 8px solid black;
+        border-radius: 3%;
         &:hover .overlay {
           opacity: 1;
         }
@@ -47,7 +50,6 @@
             height: 100%;
             img {
               height: inherit;
-              object-fit: cover;
               width: 100%;
             }
           }

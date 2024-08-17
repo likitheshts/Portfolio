@@ -2,7 +2,7 @@ import React from "react";
 import "./styles.scss";
 import { Animate } from "react-simple-animate";
 import { useNavigate } from "react-router-dom";
-import { FaFacebook, FaLinkedin, FaInstagram, FaTwitter } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 import "./styles.scss";
 import Likithesh_Resume from "../../resumeSample/Likithesh_TS.pdf";
 
@@ -32,10 +32,12 @@ const Home = () => {
               </a>
             </div>
             <div className="contact-me__socials-wrapper">
-              <FaLinkedin size={32} />
-              <FaFacebook size={32} />
-              <FaTwitter size={32} />
-              <FaInstagram size={32} />
+              <a href="https://www.linkedin.com/in/likithesh-ts-1430401b3/">
+                <FaLinkedin size={32} />
+              </a>
+              <a href="https://github.com/likitheshts">
+                <FaGithub size={32} />
+              </a>
             </div>
           </div>
         </Animate>
