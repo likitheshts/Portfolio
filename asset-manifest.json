@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.513b950b.css",
+    "main.css": "/Portfolio/static/css/main.a96ff46b.css",
     "main.js": "/Portfolio/static/js/main.941f294a.js",
     "static/media/entertainmentProject.png": "/Portfolio/static/media/entertainmentProject.7e4c877e40e30c166319.png",
     "static/media/netflixProject.png": "/Portfolio/static/media/netflixProject.3a51c4851b4e08d4028b.png",
@@ -10,11 +10,11 @@
     "static/media/Likithesh_TS.pdf": "/Portfolio/static/media/Likithesh_TS.430b24e4630a8ae7bca1.pdf",
     "static/media/Photo.png": "/Portfolio/static/media/Photo.2960a1f267a5ca53c49c.png",
     "index.html": "/Portfolio/index.html",
-    "main.513b950b.css.map": "/Portfolio/static/css/main.513b950b.css.map",
+    "main.a96ff46b.css.map": "/Portfolio/static/css/main.a96ff46b.css.map",
     "main.941f294a.js.map": "/Portfolio/static/js/main.941f294a.js.map"
   },
   "entrypoints": [
-    "static/css/main.513b950b.css",
+    "static/css/main.a96ff46b.css",
     "static/js/main.941f294a.js"
   ]
 }
